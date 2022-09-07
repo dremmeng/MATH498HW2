@@ -91,6 +91,7 @@ return( yFit)
 y <- HW2Test(xGrid)
 NBSFit(xGrid,y,xGrid)
 ```
+Sines and cosines are mutually orthogonal. 
 $\int_{-\infty}^{\infty} \sqrt(2) cos(2\pi x)*\sqrt(2) cos(2\pi x)=1$
 $\int_{-\infty}^{\infty} \sqrt(2) sin(2\pi x)*\sqrt(2) sin(2\pi x)=1$
 $\int_{-\infty}^{\infty} \sqrt(2) cos(4\pi x)*\sqrt(2) cos(4\pi x)=1$
